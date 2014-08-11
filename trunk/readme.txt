@@ -9,11 +9,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If active, this plugin removes the WordPress version from your website-header.
+If active, this plugin removes the WordPress version from your website header.
 
 == Description ==
 
-If active, this plugin removes the WordPress version from your website-header.
+If active, this plugin removes the WordPress version from your website header and so increases the security, because many robots are searching for that type of meta tag.
 
 == Installation ==
 
@@ -23,6 +23,9 @@ If active, this plugin removes the WordPress version from your website-header.
 == Frequently asked questions ==
 
 == Screenshots ==
+
+1. Before
+2. After
 
 == Changelog ==
 
